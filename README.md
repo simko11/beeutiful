@@ -3,15 +3,6 @@
 
 > Diese Seite bei [https://simko11.github.io/beeutiful/](https://simko11.github.io/beeutiful/) öffnen
 
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/simko11/beeutiful** suchen und importieren
-
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/simko11/beeutiful/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
@@ -20,12 +11,6 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/simko11/beeutiful** ein und klicke auf Importieren
 
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/simko11/beeutiful/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
